@@ -19,7 +19,7 @@
     - Test cases passed: 0
     - Test cases failed: 18
     - Testing Type: Integration Testing
-![integration testing v1](https://github.com/jefprisimont/guru99_bank_website2/blob/main/integration%20testing%20v1.PNG)
+![integration testing v1](https://github.com/jefprisimont/guru99/blob/master/integration%20testing/integration%20testing%20v1.PNG)
 [more details](https://drive.google.com/file/d/1q1Q--IFr2lTzD98oBVspx0EwKBrR7-ia/view?usp=sharing)
 6. Bug Details and Analysis 
     - Total Bugs Found: 18. Ideally the bugs should be logged in a defect management system. But i will keep things simple and use a spreadsheet. then inputted these bugs into the SpreedSheet to categorize these bugs based on severity and priority.<br>
@@ -56,7 +56,7 @@
     - Test cases passed: 18
     - Test cases failed: 0
     - Testing Type: Integration Testing
-![integration testing v2](https://github.com/jefprisimont/guru99_bank_website2/blob/main/integration%20testing%20v2.PNG)
+![integration testing v2](https://github.com/jefprisimont/guru99/blob/master/integration%20testing/integration%20testing%20v2.PNG)
 [more details](https://drive.google.com/file/d/1rQtMFd5hEXIuqC7SR2GWpIFH6j6QkxQw/view?usp=sharing)
 6. Bug Details and Analysis
     - Total Bugs Found: 0 <br>
@@ -91,7 +91,7 @@
     - Test cases passed: 48
     - Test cases failed: 22
     - Testing Type: System Testing
-![system testing v1](https://github.com/jefprisimont/guru99_bank_website2/blob/main/system%20testing%20v1.PNG)
+![system testing v1](https://github.com/jefprisimont/guru99/blob/master/system%20testing/system%20testing%20v1.PNG)
 [more details](https://drive.google.com/file/d/1Qp97vXLs8HlFjAWS4GK8n_Anfu58dwiQ/view?usp=sharing)
 6. Bug Details and Analysis
     - Total Bugs Found: 22 <br>
@@ -126,7 +126,7 @@
     - Test cases passed: 70
     - Test cases failed: 0
     - Testing Type: System Testing
-![system testing v2](https://github.com/jefprisimont/guru99_bank_website2/blob/main/system%20testing%20v2.PNG)
+![system testing v2](https://github.com/jefprisimont/guru99/blob/master/system%20testing/system%20testing%20v2.PNG)
 [more details](https://drive.google.com/file/d/10D3s6n50YbsUyS1U5xfyFvFvQ1CsKgwV/view?usp=sharing)
 6. Bug Details and Analysis
     - Total Bugs Found: 0 <br>
